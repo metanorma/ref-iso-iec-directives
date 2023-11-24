@@ -1,0 +1,8 @@
+= ISO/IEC Directives historic archive
+
+All information in this repository originates from the websites of ISO and IEC,
+current or historic (via archive.org).
+
+Copyright remains with their original owners.
+
+
